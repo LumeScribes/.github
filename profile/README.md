@@ -1,3 +1,5 @@
+![LumeScribes — Forging words. Connecting worlds.](03_Banner_LumeScribes_1440x480.png)
+
 # ✨ LumeScribes
 
 **An independent Italian game & mod localization guild**  
