@@ -1,4 +1,4 @@
-![LumeScribes — Forging words. Connecting worlds.](03_Banner_LumeScribes_1440x480.png)
+![LumeScribes — Forging words. Connecting worlds.](https://raw.githubusercontent.com/LumeScribes/.github/main/profile/03_Banner_LumeScribes_1440x480.png)
 
 # ✨ LumeScribes
 
